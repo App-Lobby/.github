@@ -4,5 +4,5 @@ We have open source projects that are **live on production**. Currently, we have
 
 ## Projects
 
-- We have swift library called as [Extended](https://github.com/App-Lobby/Extended)
-- We have iOS app on [appstore](https://apps.apple.com/us/app/trash/id1618653423) called as [Trash](https://github.com/App-Lobby/Trash)
+- We have swift library called as "[Extended](https://github.com/App-Lobby/Extended)"
+- We have iOS app on [appstore](https://apps.apple.com/us/app/trash/id1618653423) called as "[Trash](https://github.com/App-Lobby/Trash)"
