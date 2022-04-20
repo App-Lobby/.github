@@ -1,6 +1,6 @@
 ## AppLobby 
 
-It's a collection of my old practice and learning projects :)
+It's a collection of practice and learning projects by [myawesomehub](https://github.com/myawesomehub) :)
 
 <!-- ## AppLobby
 
