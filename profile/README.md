@@ -1,6 +1,6 @@
 ## AppLobby
 
-I have created some open source projects that are **live on production**. Currently, there are **iOS** apps and **swift** libraries. I encourage you to participate in projects by issue section.
+A curated list of some open source projects that are **live on production** and created by me. Currently, there are **iOS** apps and **swift** libraries. I encourage you to participate in projects by issue section.
 
 ## Projects
 
