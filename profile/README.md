@@ -1,6 +1,6 @@
 ## AppLobby 
 
-Currently, this org is **not active**. 
+It's a collection of my old practice and learning projects :)
 
 <!-- ## AppLobby
 
