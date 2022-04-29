@@ -1,6 +1,6 @@
 ## AppLobby 
 
-It's a collection of practice and learning projects by [myawesomehub](https://github.com/myawesomehub) :)
+It's a collection of practice and old projects by [myawesomehub](https://github.com/myawesomehub) :)
 
 <!-- ## AppLobby
 
