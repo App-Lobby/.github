@@ -1,3 +1,3 @@
 ## AppLobby 
 
-Old projects by [myawesomehub](https://github.com/myawesomehub) :)... In college days
+Old & in-active projects created back in college. 
